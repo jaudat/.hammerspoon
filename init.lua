@@ -4,7 +4,8 @@
 -- App configuration
 APPS = {
 	{ shortcut = "t", name = "Wezterm" },
-	{ shortcut = "e", name = "Visual Studio Code" },
+	{ shortcut = "v", name = "Visual Studio Code" },
+	{ shortcut = "z", name = "Zed" },
 	{ shortcut = "b", name = "Firefox" },
 	-- { shortcut = "c", name = "Slack" },
 }

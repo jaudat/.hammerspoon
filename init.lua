@@ -5,7 +5,7 @@
 APPS = {
 	{ shortcut = "t", name = "Wezterm" },
 	{ shortcut = "v", name = "Visual Studio Code" },
-	{ shortcut = "z", name = "Zed" },
+	{ shortcut = "e", name = "Zed" },
 	{ shortcut = "b", name = "Firefox" },
 	-- { shortcut = "c", name = "Slack" },
 }

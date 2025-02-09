@@ -3,11 +3,9 @@
 
 -- App configuration
 APPS = {
-	{ shortcut = "t", name = "Wezterm" },
+	{ shortcut = "t", name = "Ghostty" },
 	-- { shortcut = "i", name = "IntelliJ IDEA" },
-	{ shortcut = "v", name = "Visual Studio Code" },
-	{ shortcut = "e", name = "Zed" },
-	-- { shortcut = "g", name = "GitHub Desktop" },
+	{ shortcut = "e", name = "Visual Studio Code" },
 	{ shortcut = "n", name = "Obsidian" },
 	{ shortcut = "b", name = "Firefox" },
 	-- { shortcut = "c", name = "Slack" },
